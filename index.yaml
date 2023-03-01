@@ -1,0 +1,58 @@
+apiVersion: v1
+entries:
+  postgres-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-02T00:16:40.358578+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e0d9bbb73cdbe301e2c0bda531243c2a39a6d8442e2686b7309e9dc0f9b5e5df
+    name: postgres-helm
+    type: application
+    urls:
+    - https://ram-priyatham.github.io/CustomizedHelmCharts/postgres-helm-0.1.0.tgz
+    version: 0.1.0
+  redis-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-02T00:16:40.359079+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e6c62587137abdbefd7ae20e9474879e6bedf3d400df39580edce6a28e563d95
+    name: redis-helm
+    type: application
+    urls:
+    - https://ram-priyatham.github.io/CustomizedHelmCharts/redis-helm-0.1.0.tgz
+    version: 0.1.0
+  result-app-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-02T00:16:40.359557+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 832c2a0cc6813c869c9d334abdca4df7bfa944f209b7054c7f3513c5cc277a7e
+    name: result-app-helm
+    type: application
+    urls:
+    - https://ram-priyatham.github.io/CustomizedHelmCharts/result-app-helm-0.1.0.tgz
+    version: 0.1.0
+  voting-app-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-02T00:16:40.360031+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 9c0eda9c54c7072f9a5e3f834fd2a90acc30de2d843a8fea5432487a71da2abd
+    name: voting-app-helm
+    type: application
+    urls:
+    - https://ram-priyatham.github.io/CustomizedHelmCharts/voting-app-helm-0.1.0.tgz
+    version: 0.1.0
+  worker-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-02T00:16:40.360468+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 8b8d23a7f42fdc74943f9fb1132f3d0f5dada76e6a57c7784bdabee45864a3a5
+    name: worker-helm
+    type: application
+    urls:
+    - https://ram-priyatham.github.io/CustomizedHelmCharts/worker-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-02T00:16:40.354113+05:30"
